@@ -12,12 +12,11 @@
 
 ## Aspectos Más Interesantes del Curso
 
-- Familiarizarme con entornos de notebook interactivos como DeepNote y aprender a usar Git y GitHub para gestionar proyectos de ciencia de datos de forma ordenada y colaborativa.
-- Realizar un análisis exploratorio de datos (EDA) sobre un dataset real de propiedades (Properati) y descubrir, a través de gráficos, patrones como la relación entre la superficie cubierta y el precio.
-- Plantear hipótesis y contrastarlas con datos, entendiendo que los resultados pueden desmentir lo que uno esperaba (por ejemplo, la ausencia de relación entre precio y ventas en el dataset del grupo).
-- Aplicar y comparar modelos de regresión (Regresión Lineal, Árbol de Decisión y Random Forest) usando métricas como MAE, RMSE y R², e interpretar sus resultados con espíritu crítico.
-- Incorporar buenas prácticas de ciencia de datos, como evitar el *data leakage* y separar los datos en entrenamiento y evaluación.
-- Trabajar en equipo, integrando análisis individuales en un proyecto grupal.
+- Familiarizarme con entornos de notebook interactivos como DeepNote y sistemas como Git y GitHub para gestionar proyectos de ciencia de datos de forma ordenada y colaborativa.
+- **Descubrir herramientas nuevas:** conocer las herramientas que se usan en la práctica para programar, analizar datos y organizar proyectos.
+- **Analizar datos y encontrar patrones:** trabajar con distintos conjuntos de datos y aprender a explorarlos, visualizarlos y sacar conclusiones a partir de ellos.
+- **Entender cómo funciona la inteligencia artificial:** conocer qué es la IA, qué tipos de problemas resuelve y cómo se construyen y evalúan los modelos.
+- **Trabajar en equipo y reflexionar sobre el impacto de la IA:** integrar el trabajo individual en proyectos grupales y pensar las implicancias éticas y sociales de estas tecnologías.
 
 ---
 
