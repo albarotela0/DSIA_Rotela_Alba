@@ -34,4 +34,6 @@ Instancias de Entrega:
 • Entrega 2: Análisis exploratorio de datos y preparación de la información. 
 • Entrega 3: Implementación del modelo o solución propuesta. 
 • Entrega Final: Presentación del proyecto, visualización de resultados y storytelling. 
-Enlace: 004-TPI/
+
+
+* **Enlace:** [TPI-EDA](https://github.com/albarotela0/DSIA_Rotela_Alba/tree/ba73b5f20a8a704ab73d5f8bb9fccc37992a9ac2/TPI-EDA)
