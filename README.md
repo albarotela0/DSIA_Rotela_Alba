@@ -25,3 +25,13 @@ https://github.com/albarotela0/DSIA_Rotela_Alba/blob/main/003-PythonLibrerias/00
 **Bajada Descriptiva:**
 En este trabajo práctico se introdujo el uso de Git y GitHub como herramientas de control de versiones y colaboración en proyectos de desarrollo. Se trabajó con la creación de repositorios, versionado de archivos, commits, ramas y sincronización con repositorios remotos. El objetivo fue comprender cómo gestionar proyectos de manera colaborativa y mantener un historial organizado de los cambios realizados en el desarrollo de proyectos de ciencia de datos e inteligencia artificial.
 * **Enlace:** [README.md](README.md)
+
+### TP 04: Trabajo Práctico Integrador (TPI) 
+**Bajada Descriptiva:**
+El Trabajo Práctico Integrador consiste en el desarrollo de un proyecto aplicado de análisis de datos e inteligencia artificial. A lo largo de la cursada, los estudiantes trabajarán en distintas etapas del proyecto, aplicando las herramientas y conceptos vistos en clase, desde la exploración inicial de los datos hasta la presentación final de resultados. El objetivo es integrar los conocimientos adquiridos y desarrollar un flujo de trabajo completo dentro de un proyecto de ciencia de datos. 
+Instancias de Entrega: 
+• Entrega 1: Definición del problema y exploración inicial del dataset. 
+• Entrega 2: Análisis exploratorio de datos y preparación de la información. 
+• Entrega 3: Implementación del modelo o solución propuesta. 
+• Entrega Final: Presentación del proyecto, visualización de resultados y storytelling. 
+Enlace: 004-TPI/
